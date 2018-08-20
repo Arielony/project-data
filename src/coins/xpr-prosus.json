@@ -1,6 +1,6 @@
 {
     "coin": "XPR",
-    "forkedFrom": "Criptomoneda",
+    "forkedFrom": "crypto-coin",
     "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/xpr-icon.png",
     "links": {
         "repo": "https://github.com/ProsusCorp/prosus",
