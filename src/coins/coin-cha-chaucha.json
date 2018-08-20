@@ -1,0 +1,16 @@
+{
+    "algorithm": "Scrypt",
+    "coin": "CHA",
+    "forkedFrom": "main-crypto-coin",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/chaucha-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2595241.0",
+        "facebook": "https://www.facebook.com/proyectochaucha/",
+        "repo": "https://github.com/proyecto-chaucha",
+        "telegram": "https://t.me/chaucha",
+        "twitter": "https://twitter.com/cryptochaucha",
+        "website": "http://www.chaucha.cl"
+    },
+    "name": "Chaucha",
+    "startDate": "2017-08"
+}

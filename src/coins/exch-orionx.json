@@ -1,7 +1,7 @@
 {
     "coin": "OrionX",
     "forkedFrom": "main-exchange",
-    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/orionx-icon.svg",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/orionx-icon.png",
     "links": {
         "facebook": "https://www.facebook.com/orionx.crypto/",
         "telegram": "https://t.me/orionx_io",
