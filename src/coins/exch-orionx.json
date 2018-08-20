@@ -1,0 +1,13 @@
+{
+    "coin": "OrionX",
+    "forkedFrom": "main-exchange",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/orionx-icon.svg",
+    "links": {
+        "facebook": "https://www.facebook.com/orionx.crypto/",
+        "telegram": "https://t.me/orionx_io",
+        "twitter": "https://twitter.com/orionx",
+        "website": "http://www.orionx.com"
+    },
+    "name": "OrionX",
+    "startDate": "2017-10"
+}

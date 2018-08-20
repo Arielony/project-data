@@ -1,6 +1,6 @@
 {
     "coin": "LBIT",
-    "forkedFrom": "crypto-coin",
+    "forkedFrom": "main-crypto-coin",
     "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/lbit-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3318012",

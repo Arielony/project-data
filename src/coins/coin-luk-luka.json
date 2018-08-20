@@ -1,7 +1,7 @@
 {
     "algorithm": "CryptoNight",
     "coin": "LUK",
-    "forkedFrom": "crypto-coin",
+    "forkedFrom": "main-crypto-coin",
     "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/luka-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2595241.0",
