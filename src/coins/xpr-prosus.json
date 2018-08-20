@@ -1,9 +1,7 @@
 {
-    "algorithm": "CryptoNight",
     "coin": "XPR",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xpr-icon.png",
+    "forkedFrom": "Criptomoneda",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/xpr-icon.png",
     "links": {
         "repo": "https://github.com/ProsusCorp/prosus",
         "website": "http://prosuscorp.com/"
