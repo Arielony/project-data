@@ -1,0 +1,8 @@
+{
+    "algorithm": "ERC-20",
+    "coin": "XCC",
+    "forkedFrom": "main-crypto-token",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/xcc-icon.png",
+    "name": "Constella",
+    "startDate": "2018-08"
+}
