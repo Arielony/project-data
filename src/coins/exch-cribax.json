@@ -1,0 +1,14 @@
+{
+    "coin": "Cribax",
+    "forkedFrom": "main-exchange",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/cribax-icon.png",
+    "links": {
+        "facebook": "https://www.facebook.com/Cribax/",
+        "telegram": "https://t.me/joinchat/GIyyRhH8Xr60fHl5fN8psA",
+        "twitter": "https://twitter.com/cribaxcl",
+        "website": "https://cribax.com/",
+        "instagram": "https://www.instagram.com/cribaxcl"
+    },
+    "name": "Cribax",
+    "startDate": "2018-08"
+}
