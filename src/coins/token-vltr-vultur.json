@@ -1,6 +1,6 @@
 {
     "algorithm": "ERC-20",
-    "coin": "VULTR",
+    "coin": "VLTR",
     "forkedFrom": "token-wea-wea",
     "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/vultur-icon.png",
     "links": {

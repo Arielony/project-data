@@ -1,0 +1,18 @@
+{
+    "algorithm": "ERC-20",
+    "coin": "GODZ",
+    "forkedFrom": "main-crypto-token",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/godzillion-icon.png",
+    "links": {
+        "facebook": "https://www.facebook.com/godzillion/",
+        "repo": "https://github.com/godzillion-io",
+        "telegram": "https://t.me/godzillion",
+        "twitter": "https://twitter.com/godzillion_io",
+        "website": "https://godzillion.io/#!/",
+        "medium": "https://blog.godzillion.io/",
+        "reddit": "https://www.reddit.com/r/godzillion_io/",
+        "linkedin": "https://cl.linkedin.com/company/godzillion"
+    },
+    "name": "Godzillion",
+    "startDate": "2016-03"
+}
