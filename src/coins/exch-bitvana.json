@@ -1,0 +1,13 @@
+{
+    "coin": "Bitvana",
+    "forkedFrom": "main-exchange",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/bitvana-icon.png",
+    "links": {
+        "facebook": "https://www.facebook.com/bitvana.io/",
+        "telegram": "https://t.me/bitvana",
+        "twitter": "https://twitter.com/bitvana",
+        "website": "http://www.bitvana.io"
+    },
+    "name": "Bitvana",
+    "startDate": "2018-08"
+}

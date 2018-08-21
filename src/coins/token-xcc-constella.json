@@ -1,5 +1,5 @@
 {
-    "algorithm": "ERC-20",
+    "algorithm": "CryptoNight",
     "coin": "XCC",
     "forkedFrom": "main-crypto-coin",
     "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/xcc-icon.png",
