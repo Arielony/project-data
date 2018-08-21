@@ -1,0 +1,16 @@
+{
+    "algorithm": "ERC-20",
+    "coin": "VULTR",
+    "forkedFrom": "token-wea-wea",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/vultur-icon.png",
+    "links": {
+        "facebook": "https://www.facebook.com/vultursolutions/",
+        "repo": "https://gitlab.com/vulturio",
+        "telegram": "https://t.me/vulturtokenES",
+        "twitter": "https://twitter.com/vultursolutions",
+        "website": "https://www.vultur.io",
+        "medium": "https://medium.com/@vultur"
+    },
+    "name": "Vultur",
+    "startDate": "2018-08"
+}
