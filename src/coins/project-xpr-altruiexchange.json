@@ -1,0 +1,10 @@
+{
+    "coin": "Altrui Exchange",
+    "forkedFrom": "coin-xpr-prosus",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/xpr-altruiexchange-icon.png",
+    "links": {
+        "website": "https://altrui.exchange"
+    },
+    "name": "Altrui Exchange",
+    "startDate": "2017-01"
+}
