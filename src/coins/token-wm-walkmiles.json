@@ -1,0 +1,12 @@
+{
+    "algorithm": "WAVES",
+    "coin": "WM",
+    "forkedFrom": "main-token-waves",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/walkmiles-icon.png",
+    "links": {
+        "telegram": "https://t.me/WALKMILESlatam",
+        "website": "https://walkmilestoken.com"
+    },
+    "name": "WalkMiles",
+    "startDate": "2018-08"
+}
