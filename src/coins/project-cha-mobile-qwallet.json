@@ -1,0 +1,10 @@
+{
+    "coin": "Android Qwallet",
+    "forkedFrom": "coin-cha-chaucha",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/chaucha-qwallet-icon.png",
+    "links": {
+        "playstore": "https://play.google.com/store/apps/details?id=com.chaqwallet"
+    },
+    "name": "Android Qwallet",
+    "startDate": "2018-03"
+}
