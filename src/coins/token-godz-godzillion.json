@@ -1,7 +1,7 @@
 {
     "algorithm": "ERC-20",
     "coin": "GODZ",
-    "forkedFrom": "main-crypto-erc20",
+    "forkedFrom": "main-token-erc20",
     "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/godzillion-icon.png",
     "links": {
         "facebook": "https://www.facebook.com/godzillion/",
