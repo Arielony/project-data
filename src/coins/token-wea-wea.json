@@ -1,7 +1,7 @@
 {
     "algorithm": "ERC-20",
     "coin": "WEA",
-    "forkedFrom": "main-crypto-token",
+    "forkedFrom": "main-crypto-erc20",
     "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/wea-icon.png",
     "name": "Vultur",
     "startDate": "2018-03",
