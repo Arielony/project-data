@@ -1,0 +1,10 @@
+{
+    "coin": "QWALLET",
+    "forkedFrom": "coin-luk-luka",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/luka-qwallet-icon.png",
+    "links": {
+        "playstore": "https://play.google.com/store/apps/details?id=com.lukqwallet"
+    },
+    "name": "QWALLET",
+    "startDate": "2018-03"
+}
