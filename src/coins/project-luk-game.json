@@ -1,0 +1,10 @@
+{
+    "coin": "LuKa Adventure",
+    "forkedFrom": "coin-luk-luka",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/luka-game-icon.png",
+    "links": {
+        "website": ""
+    },
+    "name": "LuKa Adventure",
+    "startDate": "2018-08"
+}
