@@ -1,0 +1,10 @@
+{
+    "coin": "Pet Registry",
+    "forkedFrom": "token-vltr-vultur",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/vultur-pet-icon.png",
+    "links": {
+        "website": "https://petregistry.online"
+    },
+    "name": "Pet Registry",
+    "startDate": "2018-05"
+}
