@@ -1,0 +1,10 @@
+{
+    "coin": "WalkMiles App",
+    "forkedFrom": "token-wm-walkmiles",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/walkmiles-app-icon.png",
+    "links": {
+        "playstore": "https://play.google.com/store/apps/details?id=waves.token.walkmiles"
+    },
+    "name": "WalkMiles App",
+    "startDate": "2018-08"
+}
