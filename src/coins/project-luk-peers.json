@@ -1,0 +1,10 @@
+{
+    "coin": "Peers Map",
+    "forkedFrom": "coin-luk-luka",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/luka-peers-icon.png",
+    "links": {
+        "website": "http://peers.cryptoluka.cl"
+    },
+    "name": "Peers Map",
+    "startDate": "2018-05"
+}
