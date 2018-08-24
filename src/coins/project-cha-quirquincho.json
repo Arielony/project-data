@@ -1,0 +1,10 @@
+{
+    "coin": "Quirquincho Bot",
+    "forkedFrom": "coin-cha-chaucha",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/chaucha-quirquincho-icon.png",
+    "links": {
+        "telegram": "https://t.me/QuirquinchoBot"
+    },
+    "name": "Quirquincho Bot",
+    "startDate": "2017-12"
+}
