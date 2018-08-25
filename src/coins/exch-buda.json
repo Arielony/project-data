@@ -1,0 +1,13 @@
+{
+    "coin": "Buda.com",
+    "forkedFrom": "exch-surbtc",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/buda-icon.png",
+    "links": {
+        "facebook": "https://www.facebook.com/BudaPuntoCom/",
+        "twitter": "https://twitter.com/BudaPuntoCom",
+        "linkedin": "https://www.linkedin.com/company/9294718/",
+        "website": "https://www.buda.com/"
+    },
+    "name": "Buda.com",
+    "startDate": "2018-01"
+}

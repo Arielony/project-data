@@ -1,0 +1,8 @@
+{
+    "coin": "SurBTC",
+    "forkedFrom": "main-exchange",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/surbtc-icon.png",
+    "name": "SurBTC",
+    "startDate": "2016-04",
+    "endDate": "2018-01"
+}

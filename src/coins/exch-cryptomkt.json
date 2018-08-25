@@ -1,0 +1,14 @@
+{
+    "coin": "CryptoMKT",
+    "forkedFrom": "main-exchange",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/cryptomkt-icon.png",
+    "links": {
+        "facebook": "https://www.facebook.com/cryptomkt/",
+        "telegram": "https://t.me/CryptoMKT_Latam",
+        "linkedin": "https://cl.linkedin.com/company/cryptomkt",
+        "twitter": "https://twitter.com/cryptomkt",
+        "website": "https://www.cryptomkt.com"
+    },
+    "name": "CryptoMKT",
+    "startDate": "2017-02"
+}
