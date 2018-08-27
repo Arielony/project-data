@@ -1,0 +1,12 @@
+{
+    "coin": "Crypto Chile",
+    "forkedFrom": "main-society",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/cryptochile-icon.png",
+    "links": {
+        "forum": "http://foro.cryptochile.io/",
+        "website": "http://cryptochile.io/",
+        "telegram": "https://t.me/ComunidadCryptoChile"
+    },
+    "name": "Crypto Chile",
+    "startDate": "2018-01"
+}
