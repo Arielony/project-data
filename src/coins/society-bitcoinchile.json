@@ -1,0 +1,11 @@
+{
+    "coin": "Asoc. Bitcoin Chile",
+    "forkedFrom": "main-society",
+    "icon": "https://raw.githubusercontent.com/Arielony/project-data/master/dist/images/bitcoinchile-icon.png",
+    "links": {
+        "facebook": "https://www.facebook.com/BTChile/",
+        "website": "https://asociacionbitcoin.org/"
+    },
+    "name": "Asoc. Bitcoin Chile",
+    "startDate": "2014-03"
+}
